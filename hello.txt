@@ -1,5 +1,3 @@
 hi
-<<<<<<< HEAD
-=======
+New code in new branch
 
->>>>>>> 11fb5b4ce0fa3ce6310972e1bc7df6abad5f1253
